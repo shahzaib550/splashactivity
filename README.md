@@ -1,0 +1,2 @@
+# splashactivity
+splash screen project 
